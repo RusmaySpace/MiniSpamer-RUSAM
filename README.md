@@ -5,4 +5,4 @@
 
 The batfile is optional, it is needed for beauty.
 
-Run the python file.
+Run the python file "intro".
